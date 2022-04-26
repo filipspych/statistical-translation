@@ -1,0 +1,18 @@
+chodzic;walk
+lazic;wander
+chodzic;wander
+wcinac;munch on
+chodzic;walk
+jesc;eat
+jesc;tuck in
+wcinac;tuck in
+jesc;devour
+pozerac;devour
+pozerac;devour
+jesc;taste
+jesc;eat
+jesc;eat
+jesc;taste
+lubie;I like to
+po;around
+miescie;town
